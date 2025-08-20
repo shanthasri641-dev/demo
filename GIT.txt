@@ -1,2 +1,12 @@
-dtvdreyvygd
-this is new line
+
+select max(sal)
+from emp
+group by dept no;
+
+
+
+dnyek799
+
+
+
+
