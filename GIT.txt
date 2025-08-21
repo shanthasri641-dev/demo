@@ -1,12 +1,3 @@
-
-select max(sal)
-from emp
-group by dept no;
-
-
-
-dnyek799
-
-hisjsoso
+ love india
 
 
